@@ -18,7 +18,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "@actions/core": "^1.5.0",
-    "@actions/github": "^5.0.0",
+    "@actions/github": "^5.0.3",
     "debug": "^4.3.2"
   },
   "devDependencies": {
